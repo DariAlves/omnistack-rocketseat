@@ -48,6 +48,12 @@ function TeacherForm() {
                     <Input name="cost" label="Custo da sua hora por aula" />
                 </fieldset>
 
+                <fieldset>
+                    <legend>Horários disponíveis</legend>
+                    <button type="button">
+                        + Novo horário
+                    </button>
+                </fieldset>
                 <footer>
                     <p>
                         <img src={warningIcon} alt="Aviso importante"/>
