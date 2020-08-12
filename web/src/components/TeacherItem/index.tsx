@@ -8,7 +8,7 @@ function TeacherItem() {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://avatars0.githubusercontent.com/u/65798179?s=460&u=6aa9a308b21a5677c1f9e9240d3f85747c608681&v=4" alt="Gandalf"/>
+                <img src="https://i.pinimg.com/originals/40/48/17/404817db5ec123721a0f418096f37929.jpg" alt="Gandalf"/>
                 <div>
                     <strong>Gandalf, o Cinzento</strong>
                     <span>História</span>
